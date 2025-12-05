@@ -1,12 +1,11 @@
 # Deck Builder Tutorial for Godot
-A roguelike deckbuilder tutorial project made in Godot 4.
+A roguelike deckbuilder tutorial project made in Godot 4. (4.2 stable)
 
-This branch only contains the art for the game.
+This branch contains end result of season 1.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M0RXV24)
 
-### Use this version if you want to follow along with Season 1 the tutorial series.
-[Playlist to Season 1](https://www.youtube.com/playlist?list=PL6SABXRSlpH8CD71L7zye311cp9R4JazJ)
+### Use this version if you want to see the finished project for Season 1.
 
 ### Credits
 - [Ben from Heartbeast](https://www.youtube.com/@uheartbeast): he originally started working on this project. He gave me permission, inspiration and also great ideas for this tutorial.
